@@ -12,6 +12,6 @@ Currently 13 cities around the world are attempting to tighten their laws around
 
 ## Comments
 
-I think that a huge company like Airbnb shouldn't be breaking the law
+I think that a huge company like Airbnb should be breaking the law
 
 ### - Justin Moroz 
