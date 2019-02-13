@@ -9,9 +9,15 @@ Paris is suing Airbnb for illegally listing 1,010 apartments on their site, the 
 
 Currently 13 cities around the world are attempting to tighten their laws around short-term rentals by imposing fines on Airbnb. Why should the platform suffer for the actions of the hosts? In more tangible situations we see the opposite happening, for example, if someone steals a laptop from a coffee shop the person faces the consequences and not the establishment. What makes software different? Airbnb is a useful tool that lowers the cost of traveling experiences and to punish it for the hosts' actions will not halt illegal listings, as clients could easily migrate to different platforms.
 
-
 ## Comments
 
 I think that a huge company like Airbnb should be breaking the law
 
 ### - Justin Moroz 
+=======
+**Edit by Sam Phelan**: 
+
+This article is interesting to me because it brings up an interesting debate about whether or not the company behind a product should be responsible
+for the actions of its users, especially those actions go against the basic purpose of the product. A similar debate has been held with Facebook,
+which people have taken advantage of to spread propaganda at a high scale. It's not Facebook's fault that they are doing this. But, should they
+have a hand in putting a stop to this? It's a complicated issue, and one that hasn't been answered yet. 
